@@ -1,0 +1,22 @@
+.anime-view {
+  .search {
+    display: flex;
+    flex-direction: row;
+    input {
+      width: 200px;
+    }
+
+  }
+  .table-anime {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    justify-content: center;
+    .table-header {
+      display: flex;
+      flex-direction: row;
+
+    }
+  }
+}
+
